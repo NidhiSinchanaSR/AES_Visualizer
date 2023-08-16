@@ -1,2 +1,2 @@
 # AES_Visualizer
-Open "index.html" to start
+Open and Run "index.html" to start
